@@ -1,1 +1,1 @@
-include ':app', ':PasswordMemo', ':palace9', ':roomdemo', ':snookerassist'
+include ':app'
